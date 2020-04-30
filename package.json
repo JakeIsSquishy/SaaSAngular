@@ -29,7 +29,7 @@
     "chai-http": "^4.3.0",
     "core-js": "^2.5.4",
     "g": "^2.0.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mocha": "^6.1.4",
     "ngx-bootstrap": "latest",
     "q": "^1.5.1",
